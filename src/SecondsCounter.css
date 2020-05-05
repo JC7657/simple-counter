@@ -1,0 +1,15 @@
+.contador {
+    letter-spacing: 40px;
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    
+}
+.container-contador {
+    background-color: black;
+    width: 650px;
+    margin: auto;
+    padding-bottom: 0.5px;
+    padding-top: 0.5px;
+    padding-left: 20px
+}
